@@ -1,7 +1,10 @@
 
 
 function takeANumber(katzDeliLine){
-  var position = katzDeliLine.length + 1
+  var position = 
+  
+  
+  
 }
 
 // takeANumber(katzDeliLine) "Welcome. You're ticket number #1" [1]
