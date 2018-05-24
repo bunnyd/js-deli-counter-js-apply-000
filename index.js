@@ -1,3 +1,20 @@
+
+
+function takeANumber(katzDeliLine){
+  var position = katzDeliLine.length + 1
+}
+
+// takeANumber(katzDeliLine) "Welcome. You're ticket number #1" [1]
+// takeANumber(katzDeliLine) "Welcome. You're ticket number #2" [1, 2]
+
+// nowServing(katzDeliLine) => "Currently Serving: #1" [2]
+// nowServing(katzDeliLine) => "Currently Serving: #2" []
+
+// takeANumber(katzDeliLine) => "Welcome. You're ticket number #3" [3]
+
+
+
+
 function takeANumber(katzDeliLine, name){
   /*Array index start off at 0 so add 1 to accurately show the position*/
   var position = katzDeliLine.length + 1 
